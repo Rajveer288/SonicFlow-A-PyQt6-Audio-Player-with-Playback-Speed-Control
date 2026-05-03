@@ -5,6 +5,14 @@ SonicFlow is a desktop audio player built using Python and PyQt6. It allows user
 This project was created to explore GUI development and multimedia handling in Python using PyQt6.
 
 ---
+## Screenshots
+<img width="1919" height="1005" alt="Image" src="https://github.com/user-attachments/assets/563673ab-44ec-4a49-b06e-ec93c3861cf2" />
+
+<img width="1918" height="1005" alt="Image" src="https://github.com/user-attachments/assets/839ce8a8-4f38-4d93-b849-179e6ae61ada" />
+
+<img width="1919" height="1008" alt="Image" src="https://github.com/user-attachments/assets/659fba29-dcbe-4776-958d-e21e1aa89581" />
+
+---
 
 ## 🚀 What This Project Does
 
